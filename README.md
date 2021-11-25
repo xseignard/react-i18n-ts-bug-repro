@@ -13,7 +13,8 @@ npm run types
 Should output something like this:
 
 ```
-Version 4.5.2
+Typescript: Version 4.5.2
+react-i18next: Version 11.14.3
 src/App.tsx:8:7 - error TS2589: Type instantiation is excessively deep and possibly infinite.
 
  8       <Trans i18nKey="ns1:name" t={t}>

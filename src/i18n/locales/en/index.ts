@@ -48,6 +48,7 @@ import ns46 from './ns_46.json';
 import ns47 from './ns_47.json';
 import ns48 from './ns_48.json';
 import ns49 from './ns_49.json';
+
 export default {
   ns0,
   ns1,
@@ -99,4 +100,4 @@ export default {
   ns47,
   ns48,
   ns49,
-} as const;
+};
